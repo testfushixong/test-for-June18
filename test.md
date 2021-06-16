@@ -27,4 +27,4 @@
 + [Zurb University Pattern TAP](http://patterntap.com/) Zurb 出品
 + [Inspired UI](http://inspired-ui.com/)包括 iPhone, iPad 和 Android
 + [设计模式 - Web 端](http://ui-patterns.com/patterns)：主要为 Web 端的设计模式
-+ [Android 设计模式](http://www.android-app-patterns.com/)
++ [Android 设计模式](http://www.android付世雄
