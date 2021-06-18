@@ -16,4 +16,5 @@
 * [tidb/issues/25281](https://github.com/pingcap/tidb/issues/25281)　Historical Hotspot Region, [@nolouch](https://github.com/nolouch)
 * [tidb/issues/18030](https://github.com/pingcap/tidb/issues/18030)　Placement rule in SQL, [@nolouch](https://github.com/nolouch)
 * [pd/issues/3736](https://github.com/tikv/pd/issues/3736)　　Build scheduling model with Simulink, [@bufferflies](https://github.com/bufferflies)
+* 王岩广issue3736
 
